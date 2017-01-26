@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <gb>
+#include <gb/gb.h>
 int main(){
 	
 	
